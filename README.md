@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello world
+# My name is Efe
+# I am a freshman at Bilkent University
+# I am currently studying Computer Science
+
 
 <!--
 **ef-borg/ef-borg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
