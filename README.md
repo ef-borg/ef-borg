@@ -1,7 +1,7 @@
 # Hello world
-My name is Efe \n
-I am a freshman at Bilkent University \n
-I am currently studying Computer Science \n
+My name is Efe  
+I am a freshman at Bilkent University  
+I am currently studying Computer Science  
 
 
 <!--
